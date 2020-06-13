@@ -22,6 +22,7 @@ public class Ventana extends JFrame {
 		usuarios.addUsuario("Gerson");
 		usuarios.addUsuario("Bertito");
 		usuarios.addUsuario("Carlos");
+		usuarios.addUsuario("pedrito");
 		
 		JTextArea textarea1 = new JTextArea();
 		textarea1.setBounds(10,50,400,300);
